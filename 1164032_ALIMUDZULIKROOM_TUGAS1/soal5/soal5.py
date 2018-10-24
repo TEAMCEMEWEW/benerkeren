@@ -13,4 +13,4 @@ w.record("ngek","satu") #w untuk write, record mendefinisikan perintah insert da
 #mengisi 1  row data membuat sebuah garis untuk mengisi.shp 
 w.line(parts=[[[1,5],[5,5],[5,1],[3,3],[1,1]]]) #w untuk write, line mendifinisikan membuat line dengan (x,y)
 
-w.save("soal5")
+w.save("soal5") #menyimpan soal5

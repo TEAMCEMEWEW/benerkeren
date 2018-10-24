@@ -13,4 +13,4 @@ w.record("ngok","dua") #w untuk write, record mendefinisikan perintah insert dat
 #mengisi 2 # row data membuat sebuah titik untuk mengisi.shp 
 w.point(1,1) # w untuk write, point mendifinisikan membuat jenis point, x=1, y=1
 w.point(2,2) # w untuk write, point mendifinisikan membuat jenis point, x=2, y=2
-w.save("soal1")
+w.save("soal1") # menyimpan soal1
